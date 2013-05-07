@@ -1,0 +1,3 @@
+[submodule "valami"]
+	path = valami
+	url = https://github.com/apoph1s/valami.git
