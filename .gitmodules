@@ -1,3 +1,6 @@
 [submodule "valami"]
 	path = valami
 	url = https://github.com/apoph1s/valami.git
+[submodule "fusepool-sma"]
+	path = fusepool-sma
+	url = https://github.com/apoph1s/fusepool-sma.git
